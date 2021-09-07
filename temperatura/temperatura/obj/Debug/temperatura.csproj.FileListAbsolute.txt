@@ -1,0 +1,7 @@
+C:\Users\domi2\source\repos\temperatura\temperatura\bin\Debug\temperatura.exe.config
+C:\Users\domi2\source\repos\temperatura\temperatura\bin\Debug\temperatura.exe
+C:\Users\domi2\source\repos\temperatura\temperatura\bin\Debug\temperatura.pdb
+C:\Users\domi2\source\repos\temperatura\temperatura\obj\Debug\temperatura.csproj.AssemblyReference.cache
+C:\Users\domi2\source\repos\temperatura\temperatura\obj\Debug\temperatura.csproj.CoreCompileInputs.cache
+C:\Users\domi2\source\repos\temperatura\temperatura\obj\Debug\temperatura.exe
+C:\Users\domi2\source\repos\temperatura\temperatura\obj\Debug\temperatura.pdb
